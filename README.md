@@ -5,7 +5,7 @@ I run Lowercase Labs, a web developement studio based out of Singapore.
 Some of the things we've built: 
 - [Edify](https://edify.ink/) - SaaS app for running cohort-based courses
 - [Techtok](https://techtok.dev/) - Software engineering talent marketplace
-- [Remote Internships](https://remoteinternships.io/#/) - Remote internships job board
+- [SeaTechJobs](https://www.seatechjobs.com/) - Jobs board for engineering jobs in South-East Asia
 
 I also teach web development at [Skills Union](skillsunion.com).    
 
